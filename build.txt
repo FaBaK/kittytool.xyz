@@ -1,0 +1,3 @@
+displayName = kittytool.xyz
+author = p9lze
+version = 0.1
