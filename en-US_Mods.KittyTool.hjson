@@ -1,0 +1,35 @@
+Mods: {
+	KittyTool: {
+		Configs: {
+			KittyToolConfig: {
+				DisplayName: Kitty Tool Config
+
+				FullBrightToggle: {
+					Label: Enable FullBright
+					Tooltip: Toggle FullBright On or Off
+				}
+
+				BrightnessLevel: {
+					Label: Brightness Level
+					Tooltip: Adjust the brightness level
+				}
+			}
+		}
+	}
+}
+
+Configs: {
+	KittyToolConfig: {
+		DisplayName: Kitty Tool Config
+
+		FullBrightToggle: {
+			Label: Full Bright Toggle
+			Tooltip: ""
+		}
+
+		BrightnessLevel: {
+			Label: Brightness Level
+			Tooltip: ""
+		}
+	}
+}
